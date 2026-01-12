@@ -1,0 +1,4 @@
+name: deploy
+owner: redson-ngwira
+package: .
+kind: wasmer.io/App.v0
